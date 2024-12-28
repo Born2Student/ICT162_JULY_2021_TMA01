@@ -1,4 +1,6 @@
-# ICT162_JULY_2021_TMA01
+# ICT162 - Object Oriented Programming
+
+# ICT162 Tutor-Marked Assignment (TMA01) - July Semester 2021
 
 **ICT162 Object Oriented Programming January 2021 Semester Tutor-Marked Assignment (TMA01)**
 
